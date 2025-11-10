@@ -1,1 +1,1 @@
-
+# Repositório para as aulas remotas de Desenvolvimento de Sistemas da aluna Bianca M.C. do 2°DS-A Etec Parque da Juventude
